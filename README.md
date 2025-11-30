@@ -1,5 +1,11 @@
 The following repository contains my final real-world dataset project for the *Databases and SQL for Data Science with Python* Certificate Course by IBM (https://www.coursera.org/learn/sql-data-science/).
 
+     The learning targets 
+     * Analyze data within a database using SQL and Python.
+     * Create a relational database and work with multiple tables using DDL commands. 
+     * Construct basic to intermediate level SQL queries using DML commands. 
+     * Compose more powerful queries with advanced SQL techniques like views, transactions, stored procedures, and joins. 
+
 # Introduction
 ***
 The following work is 
