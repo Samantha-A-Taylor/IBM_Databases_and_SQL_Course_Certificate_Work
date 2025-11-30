@@ -1,4 +1,6 @@
 ## Introduction
+**Project: Data Analysis of Public School Data, Crime Data, and Socioeconomic Indicators in Chicago Community Areas**
+
 The following repository contains my real-world dataset final project for the *Databases and SQL for Data Science with Python* Certificate Course by IBM (https://www.coursera.org/learn/sql-data-science/).
 
 **Learning targets:**
